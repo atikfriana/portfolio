@@ -1,14 +1,10 @@
-Here’s the English version of your personalized README for *Portfolio V5* as if written by you (Tika)—still casual, humble, and professional:
-
----
-
-# ✨ Portfolio V5 – by Atik
+# ✨ Portfolio 
 
 Hi there! 👋
 I’m Atik, and this is one of my personal portfolio projects. I built it to showcase my work, skills, and hands-on learning journey in web development.
 
 🎯 Live Demo
-[🌐 Website](https://www.eki.my.id/) *(You can change this later with your own domain!)*
+[🌐 Website](https://atikaarifiana.vercel.app) 
 
 ---
 
