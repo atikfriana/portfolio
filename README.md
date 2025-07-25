@@ -137,14 +137,4 @@ If things don’t work as expected, check the following:
 * Is your `.env` file properly set up with correct keys?
 * Try restarting the dev server after any config changes
 * Clear your browser cache if you’re stuck on old assets
-
----
-
-## 📬 Contact
-
-Have questions or want to connect?
-
-* GitHub: [@EkiZR](https://github.com/EkiZR) *(Replace with your own GitHub)*
-* Website: [eki.my.id](https://www.eki.my.id) *(Replace with yours too!)*
-
 ---
