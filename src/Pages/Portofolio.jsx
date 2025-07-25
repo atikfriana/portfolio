@@ -113,9 +113,14 @@ const techStacks = [
   { icon: "nodejs.svg", language: "Node JS" },
   { icon: "bootstrap.svg", language: "Bootstrap" },
   { icon: "firebase.svg", language: "Firebase" },
-  { icon: "MUI.svg", language: "Material UI" },
   { icon: "vercel.svg", language: "Vercel" },
   { icon: "SweetAlert.svg", language: "SweetAlert2" },
+  { icon: "php.svg", language: "PHP" }, 
+  { icon: "python.svg", language: "Python" }, 
+  { icon: "mysql.svg", language: "MySQL" }, 
+  { icon: "postman.svg", language: "Postman" }, 
+  { icon: "git.svg", language: "Git" },
+  { icon: "github.svg", language: "GitHub" }, 
 ];
 
 export default function FullWidthTabs() {
@@ -205,12 +210,11 @@ export default function FullWidthTabs() {
             backgroundClip: 'text',
             WebkitTextFillColor: 'transparent'
           }}>
-            Portfolio Showcase
+            Featured Projects
           </span>
         </h2>
         <p className="text-slate-400 max-w-2xl mx-auto text-sm md:text-base mt-2">
-          Explore my journey through projects, certifications, and technical expertise. 
-          Each section represents a milestone in my continuous learning path.
+          Take a look at the work, learning, and milestones that shape who I am as a developer today.
         </p>
       </div>
 
