@@ -214,7 +214,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              I’m a 4th-semester Information Technology student at Brawijaya University with a strong focus on web development. I’ve built multiple responsive and high-performing web applications using JavaScript, React.js, Next.js, and TypeScript crafting clean, functional interfaces with great attention to user experience.
+              I’m a 5th-semester Information Technology student at Brawijaya University with a strong focus on web development. I’ve built multiple responsive and high-performing web applications using JavaScript, React.js, Next.js, and TypeScript crafting clean, functional interfaces with great attention to user experience.
 <br></br>
 Beyond frontend, I also work with Python and PHP for backend support when needed, helping me understand how the full web stack works together. I’m always exploring new tools, improving my skills, and excited to take on new challenges in the world of web development.
 
